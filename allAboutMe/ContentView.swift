@@ -27,7 +27,7 @@ struct ContentView: View {
                         
                         Text("Stephania Covarrubias")
                         
-                        Text("Hi! I am a rising freshman at Agnes Scott majoring in Poly Sci & a minor in AI Studies. I love traveling, journaling, and listening to music!")
+                        Text("Hi! I am a rising freshman at Agnes Scott majoring in Poly Sci & a minor in AI Studies. I love traveling, journaling, and listening to music!!!!")
                     }
         }
     }
